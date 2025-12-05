@@ -1,5 +1,27 @@
-#About Me:
-<br>Hi, I’m Prathamesh Patil<br><br>I’m currently working on AI-powered full-stack projects integrating LLMs, FastAPI, React, and vector databases (Milvus).<br>I’m looking to collaborate on open-source projects in AI agents, prompt engineering, and MERN + Java Spring Boot systems.<br>I’m looking for help with scaling AI pipelines and optimizing LLM prompts for real-world use cases.<br>I’m currently learning advanced Java, LLM-based prompt engineering, and the intersection of AI + Cybersecurity.<br>💬 Ask me about Java, Python, React, FastAPI, Spring Boot, Milvus, NLP, and prompt design for AI agents.<br>⚡ Fun fact: Debugging prompts feels like debugging code — one word can break the logic 
+# Hi, I’m Prathamesh. I build intelligent systems.
+
+I transform abstract AI concepts into deployed full-stack applications. My work focuses on integrating **Vector Databases** and **Large Language Models** into traditional software architectures to create scalable, self-improving systems.
+
+* 🔭 **Building:** High-performance RAG pipelines using **FastAPI** & **Milvus**.
+* 🧪 **Refining:** The art of Prompt Engineering for deterministic AI Agents.
+* 🛠️ **The Stack:** I use **Python** for AI logic, **Java Spring Boot** for system scale, and **React** for interactive AI interfaces.
+* 🌱 **Learning:** Advanced Java patterns and optimization strategies for Large Language Models.
+
+> ⚡ **Philosophy:** I treat Prompt Engineering with the same rigor as compiled code—where a single semantic nuance is as critical as syntax.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Milvus-Vector_DB-blue?style=for-the-badge" />
+</div>
+
+<br />
+
+💬 **Ask me about:** Structuring prompts for AI Agents, optimizing Vector Search latency, or architecting microservices for LLM applications.
+ 
 
 
 ## 🌐 Socials:
