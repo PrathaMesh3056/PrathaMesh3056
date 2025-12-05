@@ -5,7 +5,7 @@ I transform abstract AI concepts into deployed full-stack applications. My work 
 * 🔭 **Building:** High-performance RAG pipelines using **FastAPI** & **Milvus**.
 * 🧪 **Refining:** The art of Prompt Engineering for deterministic AI Agents.
 * 🛠️ **The Stack:** I use **Python** for AI logic, **Java Spring Boot** for system scale, and **React** for interactive AI interfaces.
-* 🌱 **Learning:** Advanced Java patterns and optimization strategies for Large Language Models.
+* 🌱 **Learning:**  optimization strategies for Large Language Models.
 
 > ⚡ **Philosophy:** I treat Prompt Engineering with the same rigor as compiled code—where a single semantic nuance is as critical as syntax.
 
