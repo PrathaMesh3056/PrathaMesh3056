@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Prathamesh Patil<br><br>🎯 I’m currently working on AI-powered full-stack projects integrating LLMs, FastAPI, React, and vector databases (Milvus).<br>🤝 I’m looking to collaborate on open-source projects in AI agents, prompt engineering, and MERN + Java Spring Boot systems.<br>🧩 I’m looking for help with scaling AI pipelines and optimizing LLM prompts for real-world use cases.<br>📚 I’m currently learning advanced Java, LLM-based prompt engineering, and the intersection of AI + Cybersecurity.<br>💬 Ask me about Java, Python, React, FastAPI, Spring Boot, Milvus, NLP, and prompt design for AI agents.<br>⚡ Fun fact: Debugging prompts feels like debugging code — one word can break the logic 😅
+#About Me:
+Hi, I’m Prathamesh Patil<br><br>I’m currently working on AI-powered full-stack projects integrating LLMs, FastAPI, React, and vector databases (Milvus).<br>I’m looking to collaborate on open-source projects in AI agents, prompt engineering, and MERN + Java Spring Boot systems.<br>I’m looking for help with scaling AI pipelines and optimizing LLM prompts for real-world use cases.<br>I’m currently learning advanced Java, LLM-based prompt engineering, and the intersection of AI + Cybersecurity.<br>💬 Ask me about Java, Python, React, FastAPI, Spring Boot, Milvus, NLP, and prompt design for AI agents.<br>⚡ Fun fact: Debugging prompts feels like debugging code — one word can break the logic 
 
 
 ## 🌐 Socials:
