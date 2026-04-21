@@ -1,49 +1,49 @@
-# Hi, I’m Prathamesh. I build intelligent systems.
-
-I am an AI-focused Software Developer transforming abstract AI concepts into secure, deployed full-stack applications. My work focuses on integrating **Vector Databases**, **Large Language Models**, and **Agentic AI systems** into robust software architectures.
-
-* 🔭 **Building:** High-performance RAG pipelines and open-source AI security frameworks like **AgentScan**.
-* 🧪 **Refining:** LLM post-training workflows, RLHF pipelines, and function-calling accuracy.
-* 🛠️ **The Stack:** **Python** (FastAPI) for AI logic, **Java Spring Boot** for system scale, and **React** for interactive interfaces.
-* 🌱 **Learning:** Adversarial AI testing, mitigating OWASP LLM Top 10 vulnerabilities, and advanced prompt engineering.
-
-> ⚡ **Philosophy:** I treat Prompt Engineering and AI security with the same rigor as compiled code—where alignment and semantic nuances are as critical as syntax.
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Milvus-Vector_DB-blue?style=for-the-badge" />
+<div align="center">
+  <a href="https://linkedin.com/in/prathameshpatildev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prathamesh.;I+build+intelligent+systems.;I+break+and+align+AI+agents." alt="Typing SVG" />
+  </a>
+  <p><b>AI/ML Engineer | LLM Red-Teamer | Full-Stack Developer</b></p>
 </div>
 
-<br />
+---
 
-💬 **Ask me about:** AI Agent red-teaming, LLM alignment/RLHF, structuring prompts, or architecting scalable full-stack microservices.
+### ⚡ About Me
+I am an AI-focused Software Engineer bridging the gap between abstract machine learning concepts and secure, production-grade applications. My current obsession lies in **LLM post-training**, **RLHF pipelines**, and building agentic systems that are both highly capable and strictly aligned.
 
+### 🎯 Current Focus
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.prathamesh_patil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshpatildev) 
+| 🚀 Initiative | 🔍 Description |
+| :--- | :--- |
+| **Building AgentScan** | Developing an open-source red-teaming framework targeting the OWASP LLM Top 10 vulnerabilities. |
+| **Refining LLMs** | Evaluating instruction-following and function-calling capabilities for robust AI architectures. |
+| **Engineering Systems** | Architecting scalable RAG pipelines using **FastAPI**, **Milvus**, and **React**. |
 
-# 💻 Tech Stack:
+### 🛠️ Technical Arsenal
 
-**AI / Machine Learning & Data**<br/>
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+<div align="center">
 
-**Backend & Databases**<br/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **AI & Machine Learning** | `Python` `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `LLMs` `RAG` |
+| **Backend & Databases** | `FastAPI` `Java` `Spring Boot` `Node.js` `Milvus` `PostgreSQL` |
+| **Frontend Architecture** | `React` `JavaScript` `Tailwind CSS` |
+| **DevOps & Tools** | `Git` `Docker` `Nginx` `GitHub Actions` `Asyncio` |
 
-**Frontend**<br/>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+</div>
 
-**DevOps, Architecture & Tools**<br/>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrathaMesh3056&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrathaMesh3056&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathaMesh3056&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathaMesh3056&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathaMesh3056&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages" />
+</div>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrathaMesh3056&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://linkedin.com/in/prathameshpatildev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:prathameshpatil300804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
