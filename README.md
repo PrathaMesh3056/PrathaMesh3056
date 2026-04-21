@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshpatil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrathaMesh3056)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prathameshpatil.com)
 
 ---
 
@@ -158,7 +157,7 @@ Real-time voice-controlled portfolio using Faster-Whisper for low-latency speech
 
 ## 🔗 Let's Connect
 
-- **Portfolio:** [prathameshpatil.com](https://prathameshpatil.com)
+
 - **Email:** [prathameshpatil300804@gmail.com](mailto:prathameshpatil300804@gmail.com)
 - **LinkedIn:** [linkedin.com/in/prathameshpatil](https://linkedin.com/in/prathameshpatil)
 - **GitHub:** [github.com/PrathaMesh3056](https://github.com/PrathaMesh3056)
