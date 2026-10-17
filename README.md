@@ -1,175 +1,94 @@
-# Prathamesh Patil
+<div align="center">
 
-> AI-Focused Software Developer | LLM Specialist | Open-Source Contributor
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f5f0e8&height=180&text=Prathamesh%20Patil&fontSize=52&fontColor=8b0000&fontAlign=50&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20LLM%20Security%20%C2%B7%20Open-Source&descSize=16&descColor=cc0000&descAlign=50&descAlignY=65" width="100%"/>
 
-**📍 Pune, Maharashtra, India | 📧 prathameshpatil300804@gmail.com**
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshpatildev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrathaMesh3056)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b0000?style=flat-square&logo=linkedin&logoColor=f5f0e8)](https://linkedin.com/in/prathameshpatildev)
+[![GitHub](https://img.shields.io/badge/GitHub-8b0000?style=flat-square&logo=github&logoColor=f5f0e8)](https://github.com/PrathaMesh3056)
+[![Email](https://img.shields.io/badge/Email-8b0000?style=flat-square&logo=gmail&logoColor=f5f0e8)](mailto:prathameshpatil300804@gmail.com)
+[![AgentScan](https://img.shields.io/badge/AgentScan-cc0000?style=flat-square&logo=github&logoColor=f5f0e8)](https://github.com/PrathaMesh3056/AgentScan)
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=PrathaMesh3056&label=visits&color=8b0000&style=flat-square"/>
 
-I'm an AI-focused Software Developer with hands-on experience building full-stack applications, agentic AI systems, and LLM-integrated pipelines. I'm actively developing **AgentScan**, an open-source red-teaming framework for AI agents targeting OWASP LLM Top 10 vulnerabilities.
-
-**Key Expertise:**
-- 🤖 Agentic AI systems and LLM post-training workflows
-- 🔧 Full-stack development with React, FastAPI, and modern Python stack
-- 🛡️ Red-teaming, security evaluation, and LLM vulnerabilities
-- 📊 Async architecture, data engineering, and system design
-- 🔐 RLHF annotation, function calling, and prompt engineering
+</div>
 
 ---
 
-## 🎓 Education
+### About
 
-**Bachelor of Engineering in Computer Science**  
-*SSBT College of Engineering, Jalgaon, Maharashtra*  
-August 2022 – August 2026 | **GPA: 8.50**
+AI-focused Software Developer building **AgentScan** — an open-source red-teaming framework for AI agents targeting the OWASP LLM Top 10.
 
----
-
-## 💼 Experience
-
-### **LLM Post-Training Intern** | Ethara AI
-*January 2026 - April 2026 | Remote*
-
-- Evaluated and refined LLM outputs for instruction-following and function-calling accuracy across diverse prompts
-- Annotated and ranked model responses to support RLHF pipelines with focus on reasoning quality and safety alignment
-- Designed and executed adversarial test cases including prompt injection and jailbreak attempts
-- Authored structured evaluation rubrics for standardizing quality assessment in LLM post-training workflows
-
-### **Software Developer Intern** | Maharashtra Knowledge Corporation Limited (MKCL)
-*July 2025 - September 2025 | Pune, Maharashtra*
-
-- Designed and developed full-stack web applications using React, FastAPI, and Nginx for production-grade deployment
-- Integrated AI-driven modules to automate core workflows, reducing manual processing overhead
-- Collaborated on system architecture decisions, API design, and performance optimization
-- Optimized performance across frontend and backend layers for improved user experience
+- **Focus** — LLM Security · Agentic AI · RLHF · Full-Stack Engineering
+- **Now** — AgentScan SaaS layer + MCP attack surface coverage
+- **Learning** — MoE architectures · eBPF sandboxing · Multimodal LLM security
+- **Location** — Pune, Maharashtra, India
 
 ---
 
-## 🎯 Featured Projects
+### Projects
 
-### **AgentScan** | Open-Source Red-Teaming Framework
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/PrathaMesh3056/AgentScan)
+**AgentScan** — Metasploit for AI Agents + Snyk for AI Dependencies  
+`Python` `FastAPI` `YAML` `GitHub Actions` `pytest`
 
-*Python | FastAPI | YAML | GitHub Actions | pytest*
-
-An open-source Python CLI and SaaS framework for red-teaming AI agents – "Metasploit for AI Agents + Snyk for AI Dependencies."
-
-**Key Highlights:**
-- ✅ Built AttackModule ABC with auto-registration and async httpx client
-- ✅ Implemented YAML-driven prompt injection payloads targeting OWASP LLM Top 10
-- ✅ Designed Pydantic v2 data model layer for structured attack result validation
-- ✅ Achieved 25 passing tests with pytest fixtures and GitHub Actions CI/CD
-- ✅ Engineered modular architecture with uv + hatchling build system
+> Red-teaming framework for AI agents — detects prompt injection, jailbreaks,
+> insecure tool use, and supply-chain vulnerabilities across LLM pipelines.
 
 ---
 
-### **NewZ** | News Summarization & Insights Platform
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/PrathaMesh3056/NewZ)
+### Stack
 
-*React | FastAPI | Python | NLP | Milvus | Firebase*
-
-AI-powered platform that fetches live news and generates context-aware summaries using advanced NLP and LLM integration.
-
-**Key Highlights:**
-- ✅ Optimized asynchronous API request handling, reducing end-to-end latency by ~45%
-- ✅ Integrated Milvus vector database for semantic search capabilities
-- ✅ Added multilingual summarization and TTS pipelines for accessibility
-- ✅ Architected scalable React + Tailwind CSS frontend with real-time update support
+`Python` `TypeScript` `FastAPI` `React` `Vite`  
+`PostgreSQL` `Redis` `Nginx` `Docker`  
+`LangChain` `OpenAI` `HuggingFace` `Pydantic`  
+`GitHub Actions` `pytest` `YAML`
 
 ---
 
-### **The Vocal Portfolio** | Voice-Controlled Portfolio
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/PrathaMesh3056/VocalPortfolio)
+### Experience
 
-*Faster-Whisper | FastAPI | React | Tailwind CSS*
+**LLM Post-Training Intern** · Ethara AI · *Jan – Apr 2026*
 
-Real-time voice-controlled portfolio using Faster-Whisper for low-latency speech-to-text inference.
+Evaluated and refined LLM outputs for instruction-following and function-calling.
+Designed adversarial test cases (prompt injection, jailbreaks) and built RLHF annotation pipelines.
 
-**Key Highlights:**
-- ✅ Engineered real-time voice control with optimized speech-to-text inference
-- ✅ Implemented TTS pipelines for instant auditory feedback
-- ✅ Designed React + FastAPI fullstack with real-time command parsing
-- ✅ Optimized API performance for seamless voice command processing
+**Software Developer Intern** · MKCL, Pune · *Jul – Sep 2025*
 
----
-
-## 🛠️ Technical Skills
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-### **AI & LLM**
-- Agentic AI, LLM Post-Training, RLHF Annotation
-- Function Calling, Prompt Injection, OWASP LLM Top 10
-- Red-Teaming, RAG, Fine-tuning, NLP
-- OpenAI API, Ollama, LLM Studio
-
-### **Python Stack**
-- **Web Frameworks:** FastAPI, Flask
-- **Async:** asyncio, httpx, aiohttp
-- **Data:** Pydantic v2, Pandas, NumPy
-- **ML/AI:** PyTorch, TensorFlow, Scikit-Learn
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Testing:** pytest, unittest
-
-### **Web & Backend**
-- **Frontend:** React, HTML5, CSS3, Tailwind CSS
-- **Backend:** FastAPI, Spring Boot, Express.js
-- **Server:** Nginx, Apache
-- **Architecture:** REST APIs, GraphQL basics
-
-### **Databases**
-- PostgreSQL, MySQL
-- Milvus (Vector DB)
-- Firebase, MongoDB
-
-### **DevOps & Tools**
-- **Version Control:** Git, GitHub
-- **CI/CD:** GitHub Actions
-- **Containerization:** Docker
-- **Build Tools:** uv, hatchling, pip
-- **IDEs:** VS Code, Jupyter, PyCharm
-
-### **Core Concepts**
-- System Design & Architecture
-- Async Programming & Event-Driven Systems
-- Agent Architectures & Multi-Agent Systems
-- Data Engineering & ETL Pipelines
-- Model Evaluation & Performance Optimization
+Built production full-stack applications with React + FastAPI + Nginx.
+Integrated AI-driven automation modules and optimised system performance end-to-end.
 
 ---
 
-## 📊 Statistics
+### Education
 
-- **GitHub Contributions:** 200+
-- **Open-Source Projects:** 3+ active projects
-- **Languages:** Python, JavaScript, Java
-- **Total Projects:** 10+
+**B.E. Computer Science** · SSBT College of Engineering, Jalgaon  
+Aug 2022 – Aug 2026 · GPA **8.50 / 10.0**
 
 ---
 
-## 🔗 Let's Connect
+### Stats
 
+<div align="center">
 
-- **Email:** [prathameshpatil300804@gmail.com](mailto:prathameshpatil300804@gmail.com)
-- **LinkedIn:** [linkedin.com/in/prathameshpatil](https://linkedin.com/in/prathameshpatil)
-- **GitHub:** [github.com/PrathaMesh3056](https://github.com/PrathaMesh3056)
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=PrathaMesh3056&show_icons=true&theme=buefy&border_color=cc0000&title_color=8b0000&icon_color=cc0000&text_color=3d0000&bg_color=f5f0e8&count_private=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathaMesh3056&layout=compact&theme=buefy&border_color=cc0000&title_color=8b0000&text_color=3d0000&bg_color=f5f0e8"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=PrathaMesh3056&theme=elegant&border=cc0000&ring=8b0000&fire=cc0000&currStreakLabel=8b0000&background=f5f0e8&sideLabels=8b0000&dates=3d0000&stroke=cc0000)
+
+</div>
 
 ---
 
-## 📄 License
+<div align="center">
 
-This portfolio and all associated projects are open source and available under the MIT License.
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f5f0e8&height=60&section=footer&fontColor=8b0000&fontSize=12" width="100%"/>
 
----
+*"The best way to defend AI systems is to attack them first."*
 
-**⭐ Feel free to star and fork any of my projects!**
-
-*Last Updated: January 2025*
+</div>
