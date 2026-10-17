@@ -1,94 +1,180 @@
-<div align="center">
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   prathamesh@github:~$                                                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f5f0e8&height=180&text=Prathamesh%20Patil&fontSize=52&fontColor=8b0000&fontAlign=50&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20LLM%20Security%20%C2%B7%20Open-Source&descSize=16&descColor=cc0000&descAlign=50&descAlignY=65" width="100%"/>
+```
+ ___  ___  ___ _____ _  _   _   __  __ ___ ___ _  _ 
+| _ \| _ \/ __|_   _| || | /_\ |  \/  | __/ __| || |
+|  _/|   / (__  | | | __ |/ _ \| |\/| | _|\__ \ __ |
+|_|  |_|_\\___| |_| |_||_/_/ \_\_|  |_|___|___/_||_|
+                                           P A T I L  
+```
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b0000?style=flat-square&logo=linkedin&logoColor=f5f0e8)](https://linkedin.com/in/prathameshpatildev)
-[![GitHub](https://img.shields.io/badge/GitHub-8b0000?style=flat-square&logo=github&logoColor=f5f0e8)](https://github.com/PrathaMesh3056)
-[![Email](https://img.shields.io/badge/Email-8b0000?style=flat-square&logo=gmail&logoColor=f5f0e8)](mailto:prathameshpatil300804@gmail.com)
-[![AgentScan](https://img.shields.io/badge/AgentScan-cc0000?style=flat-square&logo=github&logoColor=f5f0e8)](https://github.com/PrathaMesh3056/AgentScan)
-
-<img src="https://komarev.com/ghpvc/?username=PrathaMesh3056&label=visits&color=8b0000&style=flat-square"/>
-
-</div>
-
----
-
-### About
-
-AI-focused Software Developer building **AgentScan** — an open-source red-teaming framework for AI agents targeting the OWASP LLM Top 10.
-
-- **Focus** — LLM Security · Agentic AI · RLHF · Full-Stack Engineering
-- **Now** — AgentScan SaaS layer + MCP attack surface coverage
-- **Learning** — MoE architectures · eBPF sandboxing · Multimodal LLM security
-- **Location** — Pune, Maharashtra, India
-
----
-
-### Projects
-
-**AgentScan** — Metasploit for AI Agents + Snyk for AI Dependencies  
-`Python` `FastAPI` `YAML` `GitHub Actions` `pytest`
-
-> Red-teaming framework for AI agents — detects prompt injection, jailbreaks,
-> insecure tool use, and supply-chain vulnerabilities across LLM pipelines.
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  prathamesh@github ~ $ neofetch                                          │
+├────────────────────┬─────────────────────────────────────────────────────┤
+│                    │  User       : Prathamesh Patil                      │
+│   ░░░░░░░░░░░      │  OS         : Human v23 (caffeine-powered)          │
+│   ░  ██████ ░      │  Host       : Pune, Maharashtra, India              │
+│   ░  ██  ██ ░      │  Kernel     : AI Engineering 2026-LTS               │
+│   ░  ██████ ░      │  Shell      : Python 3.12 + bash                    │
+│   ░  ██  ██ ░      │  Uptime     : 4 yrs (B.E. CSE 2022-2026)           │
+│   ░  ██████ ░      │  CPU        : LLM Security / Agentic AI             │
+│   ░░░░░░░░░░░      │  Memory     : Red-Teaming + RLHF + Full-Stack       │
+│                    │  Disk       : github.com/PrathaMesh3056             │
+│                    │  Contact    : prathameshpatil300804@gmail.com        │
+└────────────────────┴─────────────────────────────────────────────────────┘
+```
 
 ---
 
-### Stack
+## `$ man prathamesh`
 
-`Python` `TypeScript` `FastAPI` `React` `Vite`  
-`PostgreSQL` `Redis` `Nginx` `Docker`  
-`LangChain` `OpenAI` `HuggingFace` `Pydantic`  
-`GitHub Actions` `pytest` `YAML`
+```
+PRATHAMESH(1)                 User Commands                 PRATHAMESH(1)
 
----
+NAME
+       prathamesh - AI Engineer, LLM Specialist, Red-Teamer
 
-### Experience
+SYNOPSIS
+       prathamesh [--build agentic-ai] [--attack llm-systems]
+                  [--stack fastapi|react|python] [--location pune]
 
-**LLM Post-Training Intern** · Ethara AI · *Jan – Apr 2026*
+DESCRIPTION
+       An AI-focused Software Developer with hands-on experience building
+       full-stack  applications,  agentic  AI  systems,  and  LLM-inte-
+       grated  pipelines.  Creator  of  AgentScan -- open-source red-tea-
+       ming framework targeting OWASP LLM Top 10 vulnerabilities.
 
-Evaluated and refined LLM outputs for instruction-following and function-calling.
-Designed adversarial test cases (prompt injection, jailbreaks) and built RLHF annotation pipelines.
+OPTIONS
+       --focus       LLM Security, Agentic AI, Post-Training, RLHF
+       --currently   Building AgentScan SaaS + MCP attack coverage
+       --learning    MoE architectures, eBPF sandboxing, multimodal LLMs
+       --open-to     Collaborations, OSS, AI Safety research
 
-**Software Developer Intern** · MKCL, Pune · *Jul – Sep 2025*
+EXIT STATUS
+       Returns 0 on successful collaboration.
+       Returns 1 if coffee supply is critically low.
 
-Built production full-stack applications with React + FastAPI + Nginx.
-Integrated AI-driven automation modules and optimised system performance end-to-end.
+SEE ALSO
+       github(1), linkedin(1), agentscan(1), fastapi(1), python(1)
 
----
-
-### Education
-
-**B.E. Computer Science** · SSBT College of Engineering, Jalgaon  
-Aug 2022 – Aug 2026 · GPA **8.50 / 10.0**
-
----
-
-### Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=PrathaMesh3056&show_icons=true&theme=buefy&border_color=cc0000&title_color=8b0000&icon_color=cc0000&text_color=3d0000&bg_color=f5f0e8&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathaMesh3056&layout=compact&theme=buefy&border_color=cc0000&title_color=8b0000&text_color=3d0000&bg_color=f5f0e8"/>
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=PrathaMesh3056&theme=elegant&border=cc0000&ring=8b0000&fire=cc0000&currStreakLabel=8b0000&background=f5f0e8&sideLabels=8b0000&dates=3d0000&stroke=cc0000)
-
-</div>
+PRATHAMESH(1)                 User Commands                 PRATHAMESH(1)
+```
 
 ---
 
-<div align="center">
+## `$ ls -la ~/projects/`
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f5f0e8&height=60&section=footer&fontColor=8b0000&fontSize=12" width="100%"/>
+```
+drwxr-xr-x   prathamesh  staff   .
+drwxr-xr-x   prathamesh  staff   ..
+drwxr-xr-x   prathamesh  staff   AgentScan/
+|                                 |-- AttackEngine/    # async ABC attack modules
+|                                 |-- MCP-Guard/       # Model Context Protocol proxy
+|                                 |-- Sandbox/         # isolated container runtime
+|                                 |-- Sentinel/        # threat scoring + SARIF reports
+|                                 +-- CI-Pipeline/     # GitHub Actions red-team loop
+|
+drwxr-xr-x   prathamesh  staff   [stack]
+                                  |-- lang:     Python  TypeScript
+                                  |-- backend:  FastAPI  PostgreSQL  Redis  Nginx
+                                  |-- frontend: React  Vite
+                                  |-- ai/ml:    LangChain  OpenAI  HuggingFace  Pydantic
+                                  +-- devops:   Docker  GitHub Actions  pytest  YAML
+```
 
-*"The best way to defend AI systems is to attack them first."*
+---
 
-</div>
+## `$ cat ~/.bash_history | grep -i work`
+
+```bash
+###############################################################
+#  [Jan 2026 - Apr 2026]  Ethara AI  (Remote)
+#  Role: LLM Post-Training Intern
+###############################################################
+
+$ evaluate  --task instruction-following --task function-calling
+$ annotate  --pipeline RLHF --focus reasoning-quality --focus safety
+$ attack    --type prompt-injection --type jailbreak --mode adversarial
+$ write     --doc evaluation-rubrics --standard LLM-posttraining-QA
+
+###############################################################
+#  [Jul 2025 - Sep 2025]  MKCL, Pune
+#  Role: Software Developer Intern
+###############################################################
+
+$ build     --stack React FastAPI Nginx --mode production-grade
+$ integrate --module ai-automation --effect reduce-manual-overhead
+$ design    --layer API --layer system-architecture
+$ optimize  --target frontend backend --metric performance UX
+```
+
+---
+
+## `$ cat ~/.education`
+
+```
++---------------------------------------------------------------------+
+|                                                                     |
+|   Institution : SSBT College of Engineering, Jalgaon               |
+|   Degree      : B.E. Computer Science                               |
+|   Period      : August 2022 -> August 2026                         |
+|   GPA         : 8.50 / 10.0                                        |
+|                 [####################     ]  85%                   |
+|                                                                     |
++---------------------------------------------------------------------+
+```
+
+---
+
+## `$ htop`
+
+```
+  CPU[####################                 ]  67%    Tasks: 5 running
+  MEM[############################         ]  84%    Load:  high
+
+  PID    USER          PROCESS                          STATUS
+  -----------------------------------------------------------------
+  001    prathamesh    mcp-attack-surface-enum          running
+  002    prathamesh    ebpf-ai-sandboxing               running
+  003    prathamesh    continuous-redteam-cicd          running
+  004    prathamesh    multimodal-llm-adversarial       loading
+  005    prathamesh    mixture-of-experts-research      queued
+  -----------------------------------------------------------------
+  [q]Quit  [k]Kill  [F5]Tree  [F6]Sort
+```
+
+---
+
+## `$ ping -c 4 prathamesh`
+
+```
+PING prathamesh.io -- social sockets open
+
+64 bytes from linkedin  : seq=1 ttl=64  linkedin.com/in/prathameshpatildev
+64 bytes from github    : seq=2 ttl=64  github.com/PrathaMesh3056
+64 bytes from email     : seq=3 ttl=64  prathameshpatil300804@gmail.com
+64 bytes from agentscan : seq=4 ttl=64  github.com/PrathaMesh3056/AgentScan
+
+--- prathamesh statistics ---
+4 packets transmitted, 4 received, 0% packet loss
+rtt min/avg/max = instant/fast/reply
+```
+
+---
+
+```
++--------------------------------------------------------------------------+
+|                                                                          |
+|   "The best way to defend AI systems is to attack them first."          |
+|                                                                          |
+|   [ prathamesh@github ~ ] $  _                                          |
+|                                                                          |
++--------------------------------------------------------------------------+
+```
