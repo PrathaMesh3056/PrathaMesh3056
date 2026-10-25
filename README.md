@@ -12,7 +12,7 @@
 ├────────────────────┬─────────────────────────────────────────────────────┤
 │                    │  User       : Prathamesh Patil                      │
 │   ░░░░░░░░░░░      │  OS         : Human v23 (caffeine-powered)          │
-│   ░  ██████ ░      │  Host       : Pune, Maharashtra, India              │
+│   ░  ██████ ░      │  Host       : Mumbai, Maharashtra, India              │
 │   ░  ██  ██ ░      │  Kernel     : AI Engineering 2026-LTS               │
 │   ░  ██████ ░      │  Shell      : Python 3.12 + bash                    │
 │   ░  ██  ██ ░      │  Uptime     : 4 yrs (B.E. CSE 2022-2026)           │
